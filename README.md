@@ -1,2 +1,2 @@
-# Emotion-Detection using CNN Model
+# Emotion-Detection from uploaded images
 
