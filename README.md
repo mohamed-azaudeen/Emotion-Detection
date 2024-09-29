@@ -1,2 +1,2 @@
-# Emotion-Detection
-## Emotion-Detection from Uploded Images
+# Emotion-Detection using CNN Model
+
